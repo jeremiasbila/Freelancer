@@ -808,14 +808,6 @@ label.error {
   padding-left: 21px;
   font-size: 32px;
 }
-.sharelinks{
-  margin-top: 20px;
-  margin-left: 23px;
-  display: inline-block;
-}
-li a.fa-facebook{
-  color: blue;
-}
 .input-field{
   font-weight: bold !important;
   color: black !important;
@@ -845,4 +837,14 @@ li a.fa-facebook{
 
 .elements{
   margin-top: 3px;
+}
+.sharelinks{
+  margin-top: 20px;
+  margin-left: 23px;
+  display: inline-block;
+  color: black;
+}
+
+.navbar-brand{
+  line-height: 34px! important;
 }

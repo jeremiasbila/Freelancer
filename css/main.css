@@ -729,10 +729,16 @@ label.error {
 
 
 /*All phones media query*/
-@media (min-width:320px)  {
+@media (min-width:280px)  {
   .avatar{
     padding-top: 187px;
     width: 150px;
+  }
+  .upSecond{
+    padding-top: 22px;
+  }
+  .upThird{
+    padding-top: 22px;
   }
  }
 
@@ -826,7 +832,7 @@ label.error {
 .skills-headers{
   font-weight: bold;
   font-size: 20px;
-  color: black;s
+  color: black;
 }
 
 .list-of-skills{
@@ -842,7 +848,6 @@ label.error {
   margin-top: 20px;
   margin-left: 23px;
   display: inline-block;
-  color: black;
 }
 
 .navbar-brand{

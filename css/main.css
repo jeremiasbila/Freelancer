@@ -70,7 +70,7 @@ span.color {
 
 body > section,
 .footer {
-	padding: 70px 0;
+	padding: 5px;
 }
 
 .sec-title {}
@@ -170,7 +170,7 @@ body > section,
 .navbar-nav li a:focus,
 .navbar-nav li a:hover {
 	background-color: transparent;
-	border-top: 1px solid #32B0EE;
+	border-bottom: 1px solid #32B0EE;
 	color: #fff;
 }
 
@@ -639,19 +639,17 @@ label.error {
 
 .footer {
   background-color: #1ea78d;
-  border-top: 5px solid #062033;
   color: #fff;
 }
 
-.footer a:hover {
-  color: #062033;
-}
+
 
 .footer h6 {
   font-size: 14px;
   font-weight: 700;
   line-height: 24px;
   margin-bottom: 30px;
+  text-align: center;
 }
 
 .about-us p {

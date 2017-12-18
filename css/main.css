@@ -340,20 +340,17 @@ top: -8px;
 }
 
 .work-filter ul li a {
-  color: #062033;
+  color: black;
   display: block;
   font-size: 14px;
   font-weight: 700;
   padding: 5px 17px;
-  border-radius: 6px;
-  text-transform: capitalize;
+ 
 }
 
 .work-filter ul li a:hover,
 .work-filter ul li a.active {
-  background-color: #0eb493;
-  border-radius: 6px;
-  color: #fff;
+  border-bottom: 1.5px solid #00e2fd;
   padding: 5px 17px;
 }
 
